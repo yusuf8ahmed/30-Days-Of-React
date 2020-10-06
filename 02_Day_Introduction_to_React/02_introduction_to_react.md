@@ -66,7 +66,7 @@ To summarize:
 - React allows us to create reusable UI components
 - React latest release is 16.13.1
 - [React versions](https://reactjs.org/versions/)
-- React official documentation can be found [her](https://reactjs.org/docs/getting-started.html)
+- React official documentation can be found [here](https://reactjs.org/docs/getting-started.html)
 
 ### 2. Why React?
 
